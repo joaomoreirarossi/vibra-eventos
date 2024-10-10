@@ -64,4 +64,8 @@
 .pequena{
     width: 33%;
 }
-
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+}
